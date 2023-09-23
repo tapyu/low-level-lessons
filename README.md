@@ -1,4 +1,3 @@
 TODO:
 
-- https://en.wikipedia.org/wiki/Instruction_set_architecture
-- https://en.wikipedia.org/wiki/ARM_architecture_family
+- https://en.wikipedia.org/wiki/Assembly_language
